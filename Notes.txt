@@ -1,2 +1,0 @@
-Get .mbox archive from Google Takeout
-https://takeout.google.com/settings/takeout
